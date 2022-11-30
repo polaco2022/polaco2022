@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @polaco2022 university analyst programmer
 - 👀 I’m interested in Kotlin, Android Studio and Firebase
-- 🌱 I’m currently learning Kotlin, Android AStudio, Firebase and C++
+- 🌱 I’m currently learning Kotlin, Android Studio, Firebase and C++
 - 💞️ I’m looking to collaborate on C++ and  Software Engineering
 - 📫 How to reach me danielpolo2001@yahoo.com.ar and prolixsweb@gmail.com. 
 -<!---
