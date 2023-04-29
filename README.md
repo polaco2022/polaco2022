@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @polaco2022  Programador Universitario UNLAM.
-- 🌱 I’m currently learning Kotlin, Android Studio, Firebase and C++. Continue learning Java ,SQL and artificial intelligence.
+- Estoy actualmente  Desarrollando una  APP  en  Kotlin, con Android Studio en Firebase.  Continuo  aprendiendo  C++ e Inteligencia  Artificial.
 - 💞️ I’m looking to collaborate on C++ and  Software Engineering
 - 📫 How to reach me danielpolo2001@yahoo.com.ar and prolixsweb@gmail.com.
 - 
